@@ -1,0 +1,17 @@
+{
+  "carros": [
+      {
+          "modelo": "VW up",
+          "km": 75000,
+          "preco": 80000,
+          "id": 1
+      },
+      {
+          "modelo": "Fiat uno",
+          "km": 60000,
+          "preco": 65000,
+          "id": 2
+      }
+
+  ]
+}

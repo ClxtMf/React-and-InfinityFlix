@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+div {
+  background-color: teal;
+  padding: 15px;
+  min-height: 20vh;
+  font-size: 25px;
+  font-family: tahoma;
+  color: white;
+}
+
+
+

@@ -1,0 +1,16 @@
+{
+    "carros": [
+        {
+            "Modelo": "VW up",
+            "Km": 75000,
+            "Preco": 80000,
+            "Id": 1
+        },
+        {
+            "Modelo": "Fiat uno",
+            "Km": 60000,
+            "Preco": 65000,
+            "Id": 2
+        }
+    ]
+}
